@@ -1,5 +1,5 @@
 :jdk: https://openjdk.java.net/install/
-:toc:
+:toc:**
 :icons: font
 :source-highlighter: prettify
 :project_id: gs-maven
